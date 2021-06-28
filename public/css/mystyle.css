@@ -1,0 +1,28 @@
+ h4{
+            font-size: 1.5rem;
+            font-weight: 500;
+        }
+   p{
+     font-size: 16px;
+    padding: 5px;
+    border-radius: 3px;
+    display: block;
+        }
+
+  .color{
+            color: blue
+        }
+
+        .backstretch {
+    
+            background: black;
+            overflow: hidden;
+        }
+        
+        .backstretch>img {
+           object-fit: cover;
+           opacity: 0.4;
+        }
+   
+       
+          
