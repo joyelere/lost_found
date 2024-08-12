@@ -66,7 +66,7 @@ The Lost and Found Web Application is designed to help users report and find los
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/joyelere/lost-and-found-app.git
+   git clone https://github.com/joyelere/lost_found.git
 
 ## Usage
 
