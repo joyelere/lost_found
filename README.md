@@ -7,6 +7,10 @@ The Lost and Found Web Application is designed to help users report and find los
 ## Features
 
 ### Homepage
+<p align="center">
+  <img src="https://github.com/joyelere/lost_found/blob/449ed7e0aefefbd2bdce37d5e83a500cda23ecaa/imgs/HomePage.jpg">
+</p>
+
 - The homepage is the first screen displayed when a user opens the web application.
 - It features a list of all items reported as either lost or found.
 - Users can navigate through the menu and use the "Post a Found" and "Post a Lost" buttons on the horizontal navigation bar to report found or lost items.
@@ -14,37 +18,65 @@ The Lost and Found Web Application is designed to help users report and find los
 ### User Authentication
 
 #### New User Sign-Up
+<p align="center">
+  <img src="https://github.com/joyelere/lost_found/blob/449ed7e0aefefbd2bdce37d5e83a500cda23ecaa/imgs/SignUp.jpg">
+</p>
+
 - Users can register using their school email and a new password.
 - This registration process ensures that only authenticated users can report or interact with items.
 
 ### Adding Items
 
 #### Add Lost Item
+<p align="center">
+  <img src="https://github.com/joyelere/lost_found/blob/449ed7e0aefefbd2bdce37d5e83a500cda23ecaa/imgs/Add%20Lost%20Item.jpg">
+</p>
+
 - Users can report a lost or missing item by filling out a form with their name, phone number, and a brief description of the item.
 - Users can upload a photo of the item and use a "Choose Location" button to get their current location.
 - The form is fully validated to ensure all required information is provided before submission.
 
 #### Add Found Item
+<p align="center">
+  <img src="https://github.com/joyelere/lost_found/blob/449ed7e0aefefbd2bdce37d5e83a500cda23ecaa/imgs/Add%20Found%20Item.jpg">
+</p>
+
 - Similar to the Add Lost Item page, users can report found items by providing their contact details and a description of the found item.
 - Users can upload an image of the item and submit the report through the application.
 
 ### Viewing Items
 
 #### Lost Item Page
+<p align="center">
+  <img src="https://github.com/joyelere/lost_found/blob/449ed7e0aefefbd2bdce37d5e83a500cda23ecaa/imgs/Lost%20Item%20Page.png">
+</p>
+
 - This page displays all the items reported as lost.
 
 #### Found Item Page
+<p align="center">
+  <img src="https://github.com/joyelere/lost_found/blob/449ed7e0aefefbd2bdce37d5e83a500cda23ecaa/imgs/Found%20Item%20Page.png">
+</p>
+
 - This page displays all the items reported as found.
 
 ### User Profile
 
 #### Profile Page
+<p align="center">
+  <img src="https://github.com/joyelere/lost_found/blob/449ed7e0aefefbd2bdce37d5e83a500cda23ecaa/imgs/Profile%20Page.png">
+</p>
+
 - The profile page displays the user's details, such as their name, email, and profile picture.
 - Users can view a list of the lost and found items they have posted and have the option to delete them.
 
 ### Item Details
 
 #### Details of Lost Items
+<p align="center">
+  <img src="https://github.com/joyelere/lost_found/blob/449ed7e0aefefbd2bdce37d5e83a500cda23ecaa/imgs/Details%20Of%20Lost%20Item.jpg">
+</p>
+
 - This page provides detailed information about a specific lost item.
 - Other users can view the item's description and contact the person who made the report.
 - Users can use various tools to communicate, such as:
@@ -52,6 +84,11 @@ The Lost and Found Web Application is designed to help users report and find los
   - **Messaging Button**: Allows users to send a text message.
   - **Chat Button**: Opens an inbuilt messaging platform within the application.
   - **GPS**: Displays the location where the item was reported missing using Google Maps.
+    
+<p align="center">
+  <img src="https://github.com/joyelere/lost_found/blob/449ed7e0aefefbd2bdce37d5e83a500cda23ecaa/imgs/Chat.jpg">
+</p>
+
 
 ## Technology Stack
 
