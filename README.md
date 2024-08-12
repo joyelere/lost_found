@@ -66,7 +66,17 @@ The Lost and Found Web Application is designed to help users report and find los
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/lost-and-found-app.git
+   git clone https://github.com/joyelere/lost-and-found-app.git
+
+## Usage
+
+- **Homepage**: View all reported lost and found items.
+- **Sign Up**: Register as a new user with your school email.
+- **Add Lost Item**: Report a lost item by providing relevant details.
+- **Add Found Item**: Report a found item by uploading a picture and description.
+- **View Items**: Browse through all reported lost and found items.
+- **Profile Management**: View your profile and manage your posted items.
+
 
 
 ## License
